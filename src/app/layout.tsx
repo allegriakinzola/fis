@@ -7,6 +7,7 @@ const inter = Inter({
   display: "swap",
 });
 
+
 export const metadata: Metadata = {
   title: "FIS-RDC — Fonds d'Investissement Stratégique de la République Démocratique du Congo",
   description:
